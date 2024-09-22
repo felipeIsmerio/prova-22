@@ -1,0 +1,28 @@
+
+header{
+      background-color: #f4511e;
+
+
+}
+section,footer{
+    margin:40px;
+}
+h1{
+    font-size: 63px;
+    color:#f8f4f4;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color:#303030;
+    font-weight: 600;
+}
+
+.carousel-caption{
+    font-size: 80px;
+    color: #f4511e;
+    text-transform: uppercase;
+    font-weight: 600;
+}
